@@ -1,0 +1,1 @@
+# handwriting_recognition_for_dyslexia_UIA_Hackathon
